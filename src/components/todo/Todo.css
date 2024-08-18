@@ -1,0 +1,45 @@
+.Login {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+.container {
+    text-align: center; 
+    background-color:burlywood;
+    width:40%;
+    border-color:black;
+    border-radius: 3px;
+}
+
+.form-control{
+    width:200px;
+    margin:10px;
+    padding:3px;
+}
+
+label {
+    display: inline-block;
+    width: 120px;
+    font-weight: bold;
+    color:black;
+
+}
+
+.loginButton{
+    background-color:darkolivegreen;
+    width:100px;
+    color:white;
+    padding:5px;
+    margin:20px;
+    border-radius:3px;
+}
+
+.successMessage{
+    color:black;
+}
+.errorMessage{
+    color:red;
+}
+

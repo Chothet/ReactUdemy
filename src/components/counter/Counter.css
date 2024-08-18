@@ -1,0 +1,38 @@
+.increaseButton{
+    font-size:20px;
+    background-color:#00a5ab;
+    width:60px;
+    margin:10px;
+    color:white;
+    padding:5px;
+    border-radius:5px;
+    border-color:chocolate;
+    border-width:5px;
+}
+.decreaseButton{
+    font-size:20px;
+    background-color:chocolate;
+    width:60px;
+    margin:10px;
+    color:white;
+    padding:5px;
+    border-radius:5px;
+    border-color:#00a5ab;
+    border-width:5px;
+}
+
+.totalCount{
+    font-size:150px;
+}
+
+.reset{
+    background-color: blueviolet;
+    color:white;
+    font-size:20px;
+    width:140px;
+    padding:5px;
+    border-radius:5px;
+    border-color:black;
+    border-width:5px;
+
+}
